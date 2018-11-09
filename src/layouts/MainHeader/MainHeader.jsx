@@ -19,7 +19,7 @@ class MainHeader extends React.Component {
 
     return (
       <header className={classes} style={getStyle()}>
-        {children}
+        <h1>Fuck this</h1>
       </header>
     );
   }
